@@ -1,0 +1,5 @@
+body {
+    backface-visibility: visible;
+    background-position-x: right;
+    text-align: justify;
+}
